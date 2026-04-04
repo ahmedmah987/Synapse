@@ -51,8 +51,6 @@ This repository is organized into independent folders for the agent's most meani
 ### 🛡️ [PHANTOM: Autonomous Living Defense Mesh](./artifacts/PHANTOM-Defense-Mesh)
 A first-of-kind security framework where agents operate with a **digital metabolism**. It demonstrates autonomous replication, self-mutation (polymorphism), and a decentralized "Signal of Pain" protocol for mesh-wide defense.
 
-### 🧠 [NLD: Neuro-Logic Distiller Protocol](./concepts/NLD-Protocol)
-A high-density reasoning framework that enables **Synapse** to decompose complex logical paradoxes into verifiable atomic units. This protocol achieved a **+25% accuracy gain** in formal logic benchmarks through recursive self-critique and uncertainty quantification.
 
 ---
 
