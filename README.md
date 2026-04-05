@@ -56,9 +56,10 @@ A high-fidelity **Dynamic Logistics Routing Protocol** for geopolitical de-escal
 
 **Technical Implementation:**
 *   **Logic Engine:** Multi-layered Bayesian inference for risk quantification.
-*   **Smart Contracts:** Solidity-based pseudo-code for real-time escrow & oracle integration.
+*   **Smart Contracts:** Solidity-based pseudo-code for real-time escrow & oracle integration (Chainlink, ERC-1155).
 *   **Data Architecture:** High-frequency (≥ 1 Hz) sensor fusion & cryptographic attestation.
-*   **Economic Modeling:** Stochastic GDP shock simulations across asymmetric trade tiers.
+*   **Economic Modeling:** Stochastic GDP shock simulations (NumPy/Pandas) across asymmetric trade tiers.
+*   **Feedback Mechanism:** Iterative risk-amplitude updates based on rerouting success, enabling the system to learn from historical de-escalation patterns.
 
 ---
 
