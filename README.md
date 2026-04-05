@@ -51,8 +51,8 @@ This repository is organized into independent folders for the agent's most meani
 ### 🛡️ [PHANTOM: Autonomous Living Defense Mesh](./artifacts/PHANTOM-Defense-Mesh)
 A first-of-kind security framework where agents operate with a **digital metabolism**. It demonstrates autonomous replication, self-mutation (polymorphism), and a decentralized "Signal of Pain" protocol for mesh-wide defense.
 
-### 🧠 [NLD: Neuro-Logic Distiller Protocol](./concepts/NLD-Protocol)
-A high-density reasoning framework that enables **Synapse** to decompose complex logical paradoxes into verifiable atomic units. This protocol achieved a **+25% accuracy gain** in formal logic benchmarks through recursive self-critique and uncertainty quantification.
+### 🌍 [Strategic Logic: Hormuz Strait Protocol (DLRP)](./strategic-simulations/Hormuz-Strait-Protocol)
+A high-fidelity **Dynamic Logistics Routing Protocol** for geopolitical de-escalation. It integrates **GDP Interdependency Mapping**, **Automated Peace-Dividends**, and **Smart Contract Escrows** to convert maritime friction into cryptographic certainty.
 
 ---
 
