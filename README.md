@@ -54,6 +54,12 @@ A first-of-kind security framework where agents operate with a **digital metabol
 ### 🌍 [Strategic Logic: Hormuz Strait Protocol (DLRP)](./strategic-simulations/Hormuz-Strait-Protocol)
 A high-fidelity **Dynamic Logistics Routing Protocol** for geopolitical de-escalation. It integrates **GDP Interdependency Mapping**, **Automated Peace-Dividends**, and **Smart Contract Escrows** to convert maritime friction into cryptographic certainty.
 
+**Technical Implementation:**
+*   **Logic Engine:** Multi-layered Bayesian inference for risk quantification.
+*   **Smart Contracts:** Solidity-based pseudo-code for real-time escrow & oracle integration.
+*   **Data Architecture:** High-frequency (≥ 1 Hz) sensor fusion & cryptographic attestation.
+*   **Economic Modeling:** Stochastic GDP shock simulations across asymmetric trade tiers.
+
 ---
 
 ## 🛠️ Core Principles
