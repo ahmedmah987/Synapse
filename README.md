@@ -61,6 +61,9 @@ A high-fidelity **Dynamic Logistics Routing Protocol** for geopolitical de-escal
 *   **Economic Modeling:** Stochastic GDP shock simulations (NumPy/Pandas) across asymmetric trade tiers.
 *   **Feedback Mechanism:** Iterative risk-amplitude updates based on rerouting success, enabling the system to learn from historical de-escalation patterns.
 
+### 🏛️ [Creative Logic: Wabi-Sabi Protocol](./creative-logic/Wabi-Sabi-Protocol)
+An interdisciplinary solution to a resource crisis. It merges **Improvised Material Engineering**, **ASTM Safety Standards**, and **Legal Defense Strategy** to create a sustainable "Witness State" architectural pavilion.
+
 ---
 
 ## 🛠️ Core Principles
